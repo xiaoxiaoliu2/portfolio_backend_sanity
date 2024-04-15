@@ -17,7 +17,7 @@ export const abouts = defineType({
     }),
     defineField({
       name: 'imgurl',
-      title: 'ImagUrl',
+      title: 'ImageUrl',
       type: 'image',
       options: { 
         hotspot: true,
