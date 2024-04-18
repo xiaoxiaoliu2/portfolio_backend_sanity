@@ -7,3 +7,13 @@ Now you can do the following things:
 - [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+
+sanity comfiguration
+https://www.sanity.io/learn/module/day-one-with-sanity-studio/getting-started
+### To create a sanity project
+npm create sanity@latest -- --template clean --create-project "Day one with Sanity" --dataset production --typescript
+
+npm create sanity@latest -- --template clean --create-project "Day one with Sanity" --dataset production --javascript
+
+### To run the program
+npm run dev
